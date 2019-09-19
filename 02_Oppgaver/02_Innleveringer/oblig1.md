@@ -11,7 +11,7 @@ tilfeldig_ord = ord.lag_ord()
 
 Utgaven vår av spillet skal fungere på følgende måte:
 
- - Vi får et ord dra funksjonen `lag_ord()` som skal gjettes av brukeren i terminalen. I koden over    lagres ordet i variabelen `tilfeldig_ord`
+ - Vi får et ord fra funksjonen `lag_ord()` som skal gjettes av brukeren i terminalen. I koden over    lagres ordet i variabelen `tilfeldig_ord`
  - Den første bokstaven i ordet skal skrives ut med etterfølgende __ ut fra antall resterende bokstaver det er ordet. Hvis ordet er Byte så skal B  __  __  __ skrives ut til brukeren.
  - Deretter vil du spørre brukeren taste inn en bokstav. 
    - Hvis bokstaven er i ordet skal bokstav settes inn og erstatte den riktige __ For eksempel hvis brukeren gjetter t skal programmet skrive ut B __ t __ 
