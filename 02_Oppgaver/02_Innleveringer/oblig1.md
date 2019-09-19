@@ -1,12 +1,12 @@
 # Oblig 1
 ---
-I denne innlevering skal du implementere Hangman. Du får utdelt en funksjon (lagOrd()) som returnerer et tilfeldig ord fra en liste når den blir kalt på. Du trenger filen <a href='https://github.com/mareis/ProMod-1920/blob/master/02_Oppgaver/02_Innleveringer/ord.py'>ord.py</a> som må legges i samme mappen som hangman.py-filen din. For å bruke den kan du benytte følgende kode i hangman.py-filen din.
+I denne innlevering skal du implementere Hangman. Du får utdelt en funksjon (trekk_ord()) som returnerer et tilfeldig ord fra en liste når den blir kalt på. Du trenger filen <a href='https://github.com/mareis/ProMod-1920/blob/master/02_Oppgaver/02_Innleveringer/ord.py'>ord.py</a> som må legges i samme mappen som hangman.py-filen din. For å bruke den kan du benytte følgende kode i hangman.py-filen din.
 
 
 ```python
 import ord
 
-tilfeldig_ord = ord.lag_ord()
+tilfeldig_ord = ord.trekk_ord()
 ```
 
 Utgaven vår av spillet skal fungere på følgende måte:
