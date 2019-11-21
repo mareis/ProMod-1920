@@ -5,7 +5,7 @@ I denne innlevering skal du implementere Tic Tac Toe.
 <img src='tictactoe.png'>
 
 
-
+Minimumkravet er 
 
 Du trenger blant annet disse bibliotekene
 
